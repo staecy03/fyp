@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187019434792",
+    "project_id": "mansau-sabah-f073d",
+    "storage_bucket": "mansau-sabah-f073d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187019434792:android:25aee987135c9677db4e1d",
+        "android_client_info": {
+          "package_name": "com.example.mansau_sabah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187019434792-ksbn3ogt3uu4rj2jhvf84nidn57pg2rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mansau_sabah",
+            "certificate_hash": "23c845a8cb6bcc19d6a5010293bac333235f0bc9"
+          }
+        },
+        {
+          "client_id": "187019434792-qbll9c6kh7vk0o7m8tccublu36hd3397.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7L8NQgm-RAFcTxHkhcGA9KLc3kqyiCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187019434792-qbll9c6kh7vk0o7m8tccublu36hd3397.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
